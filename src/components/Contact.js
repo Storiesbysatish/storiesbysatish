@@ -75,7 +75,7 @@ Looking forward to your response!`;
                 <div className="row">
                     <div className="col-lg-7 col-12 mx-auto text-center" data-aos="fade-up">
                         <img src={profilePhoto} alt="Profile" className="profile-photo mb-3" />
-                        <h3 className="profile-name">Satish Kasi</h3>
+                        <h3 className="profile-name">Satish Kumar S</h3>
                         <p className="profile-description">
                           Hey there! I'm the proud founder of StoriesbySatish.K and a passionate storyteller through the lens. With over seven years of experience in photography, I have had the privilege of capturing life's most cherished moments, turning them into timeless stories.
                         </p>
