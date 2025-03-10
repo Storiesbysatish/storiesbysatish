@@ -20,7 +20,7 @@ const Events = () => {
           {/* Column 1 */}
           <div className="col-lg-4 col-md-6 col-12">
             <div className="news-thumb mb-4" data-aos="fade-up">
-              <img src={eventNew} className="img-fluid rounded news-image" alt="Candids" />
+              <img src={event1} className="img-fluid rounded news-image" alt="Candids" />
               <span className="badge bg-warning text-dark">Candids</span>
               <h5 className="text-dark">Sacred Vows</h5>
               <p className="text-muted">Tying the Knot</p>
