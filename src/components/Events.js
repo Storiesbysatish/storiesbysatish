@@ -1,5 +1,5 @@
 import React from "react";
-import eventNew from "../assets/images/news/284A6246.JPG";
+import event1 from "../assets/images/news/284A6246.JPG";
 import event2 from "../assets/images/news/53.jpg";
 import event3 from "../assets/images/news/haldi.jpg";
 import event4 from "../assets/images/news/fghdfdf.jpg";
@@ -47,6 +47,7 @@ const Events = () => {
               <img src={event5} className="img-fluid rounded news-image" alt="Portraits" />
               <span className="badge bg-info text-white">Portraits</span>
               <h5 className="text-dark">Timeless Portraits</h5>
+              <p className="text-muted">Capturing Smiles</p>
             </div>
           </div>
 
