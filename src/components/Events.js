@@ -1,5 +1,5 @@
 import React from "react";
-import event1 from "../assets/images/news/1E6A4506.jpg";
+import eventNew from "../assets/images/news/284A6246.JPG";
 import event2 from "../assets/images/news/53.jpg";
 import event3 from "../assets/images/news/haldi.jpg";
 import event4 from "../assets/images/news/fghdfdf.jpg";
@@ -20,7 +20,7 @@ const Events = () => {
           {/* Column 1 */}
           <div className="col-lg-4 col-md-6 col-12">
             <div className="news-thumb mb-4" data-aos="fade-up">
-              <img src={event1} className="img-fluid rounded news-image" alt="Candids" />
+              <img src={eventNew} className="img-fluid rounded news-image" alt="Candids" />
               <span className="badge bg-warning text-dark">Candids</span>
               <h5 className="text-dark">Sacred Vows</h5>
               <p className="text-muted">Tying the Knot</p>
@@ -66,7 +66,6 @@ const Events = () => {
               <p className="text-muted">Cherishing Moments</p>
             </div>
           </div>
-
         </div>
       </div>
     </section>
