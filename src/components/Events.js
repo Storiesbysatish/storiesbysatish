@@ -1,6 +1,6 @@
 import React from "react";
-import event1 from "../assets/images/news/284A6246.JPG";
-import event2 from "../assets/images/news/53.jpg";
+import event1 from "../assets/images/news/1E6A4506.jpg";
+import eventNew from "../assets/images/news/284A6246.JPG";
 import event3 from "../assets/images/news/haldi.jpg";
 import event4 from "../assets/images/news/fghdfdf.jpg";
 import event5 from "../assets/images/news/53.jpg";
@@ -37,7 +37,7 @@ const Events = () => {
           {/* Column 2 */}
           <div className="col-lg-4 col-md-6 col-12">
             <div className="news-thumb mb-4 mt-3" data-aos="fade-up">
-              <img src={event2} className="img-fluid rounded news-image" alt="Mehendi" />
+              <img src={eventNew} className="img-fluid rounded news-image" alt="Mehendi" />
               <span className="badge bg-primary text-white">Mehendi</span>
               <h5 className="text-dark">Mehendi Magic</h5>
               <p className="text-muted">Symbol of Love</p>
