@@ -1,6 +1,6 @@
 import React from "react";
 import event1 from "../assets/images/news/1E6A4506.jpg";
-import eventNew from "../assets/images/news/284A6246.JPG";
+import event2 from "../assets/images/news/284A6246.JPG";
 import event3 from "../assets/images/news/haldi.jpg";
 import event4 from "../assets/images/news/fghdfdf.jpg";
 import event5 from "../assets/images/news/53.jpg";
